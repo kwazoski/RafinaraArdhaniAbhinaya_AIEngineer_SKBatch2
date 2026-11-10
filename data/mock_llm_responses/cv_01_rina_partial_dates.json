@@ -1,0 +1,45 @@
+{
+  "full_name": "Rina Pratama",
+  "location": "Surabaya, Indonesia",
+  "summary": "Fresh graduate interested in data analysis",
+  "education": [
+    {
+      "institution": "Universitas Contoh",
+      "degree": "S1",
+      "field": "Statistika",
+      "end_year": 2023,
+      "evidence": "Universitas Contoh, S1 Statistika, 2019 - 2023"
+    }
+  ],
+  "experience": [
+    {
+      "company": "PT Contoh Digital",
+      "title": "Data Analyst Intern",
+      "start": "2022-06",
+      "end": "2022-12",
+      "highlights": [
+        "Built weekly sales dashboard in Tableau",
+        "Cleaned 200k-row datasets using Python (pandas)"
+      ],
+      "evidence": "Data Analyst Intern - PT Contoh Digital, Jun 2022 - Dec 2022"
+    },
+    {
+      "company": "Freelance",
+      "title": "Data Analyst",
+      "start": "2023",
+      "end": "present",
+      "highlights": [
+        "Analyzed survey data for small businesses with Excel and SQL"
+      ],
+      "evidence": "Freelance Data Analyst, 2023 - Present"
+    }
+  ],
+  "skills": [
+    {"name": "Python", "evidence": "Cleaned 200k-row datasets using Python (pandas)"},
+    {"name": "SQL", "evidence": "Analyzed survey data for small businesses with Excel and SQL"},
+    {"name": "Excel", "evidence": "Analyzed survey data for small businesses with Excel and SQL"},
+    {"name": "Tableau", "evidence": "Built weekly sales dashboard in Tableau"},
+    {"name": "Communication", "evidence": "Communication"}
+  ],
+  "extraction_notes": ["Freelance role hanya punya tahun, tanpa bulan"]
+}

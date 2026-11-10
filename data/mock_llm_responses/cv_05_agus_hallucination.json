@@ -1,0 +1,27 @@
+{
+  "full_name": "Agus Wijaya",
+  "location": "Bandung, Indonesia",
+  "summary": null,
+  "education": [
+    {"institution": "Universitas Contoh", "degree": "S1", "field": "Teknik Informatika", "end_year": 2022,
+     "evidence": "Universitas Contoh, S1 Teknik Informatika, 2018 - 2022"}
+  ],
+  "experience": [
+    {"company": "Studio Contoh", "title": "Web Developer", "start": "2022-03", "end": "2023-08",
+     "highlights": ["Built landing pages with HTML, CSS, and JavaScript"],
+     "evidence": "Web Developer - Studio Contoh, Mar 2022 - Aug 2023"},
+    {"company": "PT Fiktif Analitik", "title": "Data Analyst", "start": "2023-09", "end": "2025-10",
+     "highlights": ["Built ETL pipelines"],
+     "evidence": "Data Analyst - PT Fiktif Analitik, Sep 2023 - Oct 2025"}
+  ],
+  "skills": [
+    {"name": "HTML", "evidence": "Built landing pages with HTML, CSS, and JavaScript"},
+    {"name": "CSS", "evidence": "Built landing pages with HTML, CSS, and JavaScript"},
+    {"name": "JavaScript", "evidence": "Built landing pages with HTML, CSS, and JavaScript"},
+    {"name": "Git", "evidence": "HTML, CSS, JavaScript, Git"},
+    {"name": "Python", "evidence": "Advanced Python and SQL for data pipelines"},
+    {"name": "SQL", "evidence": "Advanced Python and SQL for data pipelines"},
+    {"name": "Excel", "evidence": "Advanced Excel modelling"}
+  ],
+  "extraction_notes": []
+}

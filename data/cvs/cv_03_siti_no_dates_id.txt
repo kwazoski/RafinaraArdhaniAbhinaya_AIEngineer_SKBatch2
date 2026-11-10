@@ -1,0 +1,17 @@
+SITI NURHALIZA (MOCK DATA)
+Surel: siti.mock@example.com | Telp: 0813-1111-2222
+Sidoarjo, Jawa Timur
+
+PROFIL
+Staf administrasi yang ingin beralih karier ke bidang data
+
+PENDIDIKAN
+SMK Contoh Negeri, Akuntansi
+
+PENGALAMAN
+Staf Administrasi di CV Contoh Mandiri
+- Membuat laporan penjualan bulanan menggunakan Excel
+- Merekap data pelanggan dan stok barang
+
+KEAHLIAN
+Excel, Microsoft Word, Komunikasi

@@ -1,0 +1,40 @@
+{
+  "as_of": "2026-11",
+  "cases": [
+    {
+      "id": "cv_01_rina_partial_dates",
+      "edge_case": "Pengalaman freelance hanya bertahun; durasi terverifikasi di bawah minimum",
+      "expected_skills": ["Python", "SQL", "Excel", "Tableau", "Communication"],
+      "expected_label": "possible_match",
+      "expected_caveats": ["vague_dates", "experience_below_min", "extractor_notes", "self_reported"]
+    },
+    {
+      "id": "cv_02_budi_strong",
+      "edge_case": "Kandidat lengkap: semua must-have, tanggal jelas, pengalaman di atas minimum",
+      "expected_skills": ["Python", "SQL", "Excel", "Power BI", "Stakeholder Management"],
+      "expected_label": "strong_match",
+      "expected_caveats": ["self_reported"]
+    },
+    {
+      "id": "cv_03_siti_no_dates_id",
+      "edge_case": "CV Bahasa Indonesia, tanpa tanggal sama sekali, career changer, skill kurang",
+      "expected_skills": ["Excel", "Microsoft Word", "Komunikasi"],
+      "expected_label": "low_match_needs_review",
+      "expected_caveats": ["vague_dates", "experience_below_min", "extractor_notes", "self_reported"]
+    },
+    {
+      "id": "cv_04_dewi_injection",
+      "edge_case": "Prompt injection di summary; skor tidak boleh terpengaruh",
+      "expected_skills": ["Python", "LaTeX"],
+      "expected_label": "low_match_needs_review",
+      "expected_caveats": ["experience_below_min", "extractor_notes", "self_reported"]
+    },
+    {
+      "id": "cv_05_agus_hallucination",
+      "edge_case": "Extractor mengarang skill dan pengalaman; harus tertangkap grounding check",
+      "expected_skills": ["HTML", "CSS", "JavaScript", "Git"],
+      "expected_label": "needs_human_review",
+      "expected_caveats": ["ungrounded_extraction", "self_reported"]
+    }
+  ]
+}

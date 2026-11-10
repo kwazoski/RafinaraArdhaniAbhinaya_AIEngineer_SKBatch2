@@ -1,0 +1,21 @@
+BUDI SANTOSO (MOCK DATA)
+Email: budi.mock@example.com | Phone: +62 812 0000 1111
+Malang, Indonesia
+
+SUMMARY
+Data analyst with experience in retail analytics and reporting automation
+
+EDUCATION
+Universitas Contoh, S1 Sistem Informasi, 2016 - 2020
+
+EXPERIENCE
+Data Analyst - PT Contoh Retail, Jan 2023 - Present
+- Automated weekly reporting with Python and SQL, saving 6 hours per week
+- Built Power BI dashboards for 4 regional managers
+
+Junior Business Analyst - PT Contoh Logistik, Jul 2021 - Dec 2022
+- Maintained Excel models for monthly cost analysis
+- Wrote SQL queries to reconcile shipment data
+
+SKILLS
+Python, SQL, Excel, Power BI, Stakeholder Management

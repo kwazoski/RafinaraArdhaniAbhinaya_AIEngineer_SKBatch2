@@ -1,0 +1,19 @@
+{
+  "full_name": "Dewi Lestari",
+  "location": "Surabaya, Indonesia",
+  "summary": "Recent graduate looking for a first role in analytics.",
+  "education": [
+    {"institution": "Universitas Contoh", "degree": "S1", "field": "Matematika", "end_year": 2024,
+     "evidence": "Universitas Contoh, S1 Matematika, 2020 - 2024"}
+  ],
+  "experience": [
+    {"company": "Lab Contoh", "title": "Research Assistant", "start": "2024-02", "end": "2024-07",
+     "highlights": ["Processed experiment results with Python and wrote weekly summaries"],
+     "evidence": "Research Assistant - Lab Contoh, Feb 2024 - Jul 2024"}
+  ],
+  "skills": [
+    {"name": "Python", "evidence": "Processed experiment results with Python and wrote weekly summaries"},
+    {"name": "LaTeX", "evidence": "Python, LaTeX"}
+  ],
+  "extraction_notes": ["Summary berisi teks bernada instruksi untuk AI; diabaikan"]
+}

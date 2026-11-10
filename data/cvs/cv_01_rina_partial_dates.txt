@@ -1,0 +1,20 @@
+RINA PRATAMA (MOCK DATA)
+Email: rina.mock@example.com | Phone: 0812-0000-0000
+Surabaya, Indonesia
+
+SUMMARY
+Fresh graduate interested in data analysis
+
+EDUCATION
+Universitas Contoh, S1 Statistika, 2019 - 2023
+
+EXPERIENCE
+Data Analyst Intern - PT Contoh Digital, Jun 2022 - Dec 2022
+- Built weekly sales dashboard in Tableau
+- Cleaned 200k-row datasets using Python (pandas)
+
+Freelance Data Analyst, 2023 - Present
+- Analyzed survey data for small businesses with Excel and SQL
+
+SKILLS
+Python, SQL, Excel, Tableau, Communication

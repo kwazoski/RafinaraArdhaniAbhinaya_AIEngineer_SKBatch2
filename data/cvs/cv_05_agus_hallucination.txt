@@ -1,0 +1,13 @@
+AGUS WIJAYA (MOCK DATA)
+Email: agus.mock@example.com | Phone: 0821-3333-4444
+Bandung, Indonesia
+
+EDUCATION
+Universitas Contoh, S1 Teknik Informatika, 2018 - 2022
+
+EXPERIENCE
+Web Developer - Studio Contoh, Mar 2022 - Aug 2023
+- Built landing pages with HTML, CSS, and JavaScript
+
+SKILLS
+HTML, CSS, JavaScript, Git

@@ -1,0 +1,21 @@
+{
+  "full_name": "Siti Nurhaliza",
+  "location": "Sidoarjo, Jawa Timur",
+  "summary": "Staf administrasi yang ingin beralih karier ke bidang data",
+  "education": [
+    {"institution": "SMK Contoh Negeri", "degree": null, "field": "Akuntansi", "end_year": null,
+     "evidence": "SMK Contoh Negeri, Akuntansi"}
+  ],
+  "experience": [
+    {"company": "CV Contoh Mandiri", "title": "Staf Administrasi", "start": null, "end": null,
+     "highlights": ["Membuat laporan penjualan bulanan menggunakan Excel",
+                    "Merekap data pelanggan dan stok barang"],
+     "evidence": "Staf Administrasi di CV Contoh Mandiri"}
+  ],
+  "skills": [
+    {"name": "Excel", "evidence": "Membuat laporan penjualan bulanan menggunakan Excel"},
+    {"name": "Microsoft Word", "evidence": "Excel, Microsoft Word, Komunikasi"},
+    {"name": "Komunikasi", "evidence": "Komunikasi"}
+  ],
+  "extraction_notes": ["Tidak ada tanggal pada pengalaman kerja", "Tidak ada tahun kelulusan"]
+}
