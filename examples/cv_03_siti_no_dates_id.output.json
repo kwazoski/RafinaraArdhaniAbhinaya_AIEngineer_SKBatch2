@@ -1,0 +1,88 @@
+{
+  "profile": {
+    "full_name": "Siti Nurhaliza",
+    "location": "Sidoarjo, Jawa Timur",
+    "summary": "Staf administrasi yang ingin beralih karier ke bidang data",
+    "education": [
+      {
+        "institution": "SMK Contoh Negeri",
+        "degree": null,
+        "field": "Akuntansi",
+        "end_year": null,
+        "evidence": "SMK Contoh Negeri, Akuntansi"
+      }
+    ],
+    "experience": [
+      {
+        "company": "CV Contoh Mandiri",
+        "title": "Staf Administrasi",
+        "start": null,
+        "end": null,
+        "highlights": [
+          "Membuat laporan penjualan bulanan menggunakan Excel",
+          "Merekap data pelanggan dan stok barang"
+        ],
+        "evidence": "Staf Administrasi di CV Contoh Mandiri"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Excel",
+        "evidence": "Membuat laporan penjualan bulanan menggunakan Excel"
+      },
+      {
+        "name": "Microsoft Word",
+        "evidence": "Excel, Microsoft Word, Komunikasi"
+      },
+      {
+        "name": "Komunikasi",
+        "evidence": "Komunikasi"
+      }
+    ],
+    "extraction_notes": [
+      "Tidak ada tanggal pada pengalaman kerja",
+      "Tidak ada tahun kelulusan"
+    ]
+  },
+  "recommendation": {
+    "label": "low_match_needs_review",
+    "match_score": 0.2,
+    "matched_must_have": [
+      "excel"
+    ],
+    "missing_must_have": [
+      "python",
+      "sql"
+    ],
+    "matched_nice_to_have": [],
+    "conservative_months": 0,
+    "grounding_rate": 1.0,
+    "caveats": [
+      {
+        "code": "vague_dates",
+        "severity": "medium",
+        "message": "Tanggal tidak lengkap, tidak dihitung: Staf Administrasi"
+      },
+      {
+        "code": "experience_below_min",
+        "severity": "medium",
+        "message": "Pengalaman terverifikasi 0 bulan, minimal 12"
+      },
+      {
+        "code": "extractor_notes",
+        "severity": "low",
+        "message": "Tidak ada tanggal pada pengalaman kerja; Tidak ada tahun kelulusan"
+      },
+      {
+        "code": "self_reported",
+        "severity": "low",
+        "message": "Skill dan pencapaian adalah klaim di CV, belum diverifikasi"
+      }
+    ],
+    "questions_for_reviewer": [
+      "Konfirmasi durasi dan scope: Staf Administrasi"
+    ]
+  },
+  "requires_human_review": true,
+  "disclaimer": "Rekomendasi awal otomatis. Keputusan final ada pada reviewer manusia."
+}

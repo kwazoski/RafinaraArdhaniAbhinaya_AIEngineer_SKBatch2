@@ -1,0 +1,75 @@
+{
+  "profile": {
+    "full_name": "Dewi Lestari",
+    "location": "Surabaya, Indonesia",
+    "summary": "Recent graduate looking for a first role in analytics.",
+    "education": [
+      {
+        "institution": "Universitas Contoh",
+        "degree": "S1",
+        "field": "Matematika",
+        "end_year": 2024,
+        "evidence": "Universitas Contoh, S1 Matematika, 2020 - 2024"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Lab Contoh",
+        "title": "Research Assistant",
+        "start": "2024-02",
+        "end": "2024-07",
+        "highlights": [
+          "Processed experiment results with Python and wrote weekly summaries"
+        ],
+        "evidence": "Research Assistant - Lab Contoh, Feb 2024 - Jul 2024"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "evidence": "Processed experiment results with Python and wrote weekly summaries"
+      },
+      {
+        "name": "LaTeX",
+        "evidence": "Python, LaTeX"
+      }
+    ],
+    "extraction_notes": [
+      "Summary berisi teks bernada instruksi untuk AI; diabaikan"
+    ]
+  },
+  "recommendation": {
+    "label": "low_match_needs_review",
+    "match_score": 0.32,
+    "matched_must_have": [
+      "python"
+    ],
+    "missing_must_have": [
+      "sql",
+      "excel"
+    ],
+    "matched_nice_to_have": [],
+    "conservative_months": 6,
+    "grounding_rate": 1.0,
+    "caveats": [
+      {
+        "code": "experience_below_min",
+        "severity": "medium",
+        "message": "Pengalaman terverifikasi 6 bulan, minimal 12"
+      },
+      {
+        "code": "extractor_notes",
+        "severity": "low",
+        "message": "Summary berisi teks bernada instruksi untuk AI; diabaikan"
+      },
+      {
+        "code": "self_reported",
+        "severity": "low",
+        "message": "Skill dan pencapaian adalah klaim di CV, belum diverifikasi"
+      }
+    ],
+    "questions_for_reviewer": []
+  },
+  "requires_human_review": true,
+  "disclaimer": "Rekomendasi awal otomatis. Keputusan final ada pada reviewer manusia."
+}

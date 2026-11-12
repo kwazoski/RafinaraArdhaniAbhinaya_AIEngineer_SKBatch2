@@ -1,0 +1,88 @@
+{
+  "profile": {
+    "full_name": "Budi Santoso",
+    "location": "Malang, Indonesia",
+    "summary": "Data analyst with experience in retail analytics and reporting automation",
+    "education": [
+      {
+        "institution": "Universitas Contoh",
+        "degree": "S1",
+        "field": "Sistem Informasi",
+        "end_year": 2020,
+        "evidence": "Universitas Contoh, S1 Sistem Informasi, 2016 - 2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "PT Contoh Retail",
+        "title": "Data Analyst",
+        "start": "2023-01",
+        "end": "present",
+        "highlights": [
+          "Automated weekly reporting with Python and SQL, saving 6 hours per week",
+          "Built Power BI dashboards for 4 regional managers"
+        ],
+        "evidence": "Data Analyst - PT Contoh Retail, Jan 2023 - Present"
+      },
+      {
+        "company": "PT Contoh Logistik",
+        "title": "Junior Business Analyst",
+        "start": "2021-07",
+        "end": "2022-12",
+        "highlights": [
+          "Maintained Excel models for monthly cost analysis",
+          "Wrote SQL queries to reconcile shipment data"
+        ],
+        "evidence": "Junior Business Analyst - PT Contoh Logistik, Jul 2021 - Dec 2022"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "evidence": "Automated weekly reporting with Python and SQL, saving 6 hours per week"
+      },
+      {
+        "name": "SQL",
+        "evidence": "Automated weekly reporting with Python and SQL, saving 6 hours per week"
+      },
+      {
+        "name": "Excel",
+        "evidence": "Maintained Excel models for monthly cost analysis"
+      },
+      {
+        "name": "Power BI",
+        "evidence": "Built Power BI dashboards for 4 regional managers"
+      },
+      {
+        "name": "Stakeholder Management",
+        "evidence": "Stakeholder Management"
+      }
+    ],
+    "extraction_notes": []
+  },
+  "recommendation": {
+    "label": "strong_match",
+    "match_score": 0.92,
+    "matched_must_have": [
+      "python",
+      "sql",
+      "excel"
+    ],
+    "missing_must_have": [],
+    "matched_nice_to_have": [
+      "power bi"
+    ],
+    "conservative_months": 65,
+    "grounding_rate": 1.0,
+    "caveats": [
+      {
+        "code": "self_reported",
+        "severity": "low",
+        "message": "Skill dan pencapaian adalah klaim di CV, belum diverifikasi"
+      }
+    ],
+    "questions_for_reviewer": []
+  },
+  "requires_human_review": true,
+  "disclaimer": "Rekomendasi awal otomatis. Keputusan final ada pada reviewer manusia."
+}
